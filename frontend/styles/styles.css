@@ -34,3 +34,12 @@ header, footer {
   align-items: center;
   padding: 1rem;
 }
+
+p {
+  display: block;
+  margin-top: 1em;
+}
+
+h2 {
+  margin-bottom: 1em;
+}
