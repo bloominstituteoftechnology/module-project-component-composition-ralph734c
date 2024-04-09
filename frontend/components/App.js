@@ -7,7 +7,7 @@ import PhotoCard from "./PhotoCard";
   
 // `
 
-const api_key = "dDIldQ1892ViE5bf7mdMmk0YxFV0NktPXVP6tn8R";
+const api_key = "DEMO_KEY";
 const baseUrl = "https://api.nasa.gov/planetary/apod";
 
 export default function App() {
