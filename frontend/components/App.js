@@ -1,8 +1,13 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import PhotoCard from "./PhotoCard";
+// import styled from 'styled-components';
 
-const api_key = "DEMO_KEY";
+// const styledSection = styled.section`
+  
+// `
+
+const api_key = "dDIldQ1892ViE5bf7mdMmk0YxFV0NktPXVP6tn8R";
 const baseUrl = "https://api.nasa.gov/planetary/apod";
 
 export default function App() {
